@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timotius Nugroho</h1>
 <h3 align="center">Full stack web developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timotius-nugroho" alt="timotius-nugroho" /></a> </p>
-
 - 🌱 I’m currently learning **Next Js, React Js & Express Js**
 
 - 📫 How to reach me **timotius.nugo@gmail.com**
