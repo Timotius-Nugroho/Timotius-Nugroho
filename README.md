@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **timotius.nugo@gmail.com**
 
-- ⚡ Fun fact **I am also a Pianist & Guitarist**
+- ⚡ Fun fact ... **I am also a Pianist & Guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
